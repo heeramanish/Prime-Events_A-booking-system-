@@ -1,2 +1,2 @@
 # Prime-Events_A-booking-system-
-Booking management system, based on java code based. 
+Booking management system, java code based. 
