@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Review
+comment0.text=\r\n\ This\ class\ specifies\ the\ attribute\ and\ behaviour\ of\ the\ Customer\ class.\r\n\r\n\ @author\ (Team\ 93)\r\n\ @version\ (19/10/10)\r\n
+comment1.params=
+comment1.target=Review()
+comment2.params=rating\ feedback
+comment2.target=Review(int,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getRating()
+comment4.params=rating
+comment4.target=void\ setRating(int)
+comment5.params=
+comment5.target=java.lang.String\ getFeedback()
+comment6.params=feedback
+comment6.target=void\ setFeedback(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

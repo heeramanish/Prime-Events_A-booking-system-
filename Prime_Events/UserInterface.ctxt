@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=UserInterface
+comment0.text=\r\n\ This\ class\ has\ direct\ interface\ with\ the\ control,\ acts\ as\ boundary\r\n\ @Start\ Redirects\ to\ the\ welcome\ screen\r\n\ @WelcomeScreen\ method\ is\ the\ screen\ that\ will\ be\ prompted\ to\ the\ customer\ when\ he\ opens\ up\ the\ Prime\ event\ system\r\n\ @login\ has\ login\ credentials\r\n\ @Author(Team\ 93)\r\n\ @version\ (19/10/19)\r\n
+comment1.params=
+comment1.target=UserInterface()
+comment2.params=
+comment2.target=void\ Start()
+comment2.text=\r\n\ Start\ of\ the\ program\r\n
+comment3.params=
+comment3.target=void\ displayOptions()
+comment3.text=\r\n\ displays\ options\ for\ customer\r\n
+comment4.params=
+comment4.target=java.lang.String\ welcomeScreen()
+comment4.text=\r\n\ displays\ welcome\ screen\r\n
+comment5.params=
+comment5.target=void\ showCustomerHomeScreen()
+comment6.params=
+comment6.target=void\ login()
+comment6.text=\r\n\ login\ method\ where\ customer\ enters\ email\ and\ password\ for\ verification\r\n
+comment7.params=
+comment7.target=PrimeEvents\ getPrimeEvents()
+comment8.params=pe
+comment8.target=void\ setPrimeEvenets(PrimeEvents)
+numComments=9

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=
+comment1.target=Customer()
+comment2.params=userName\ password\ email\ accountType\ chkCitizen
+comment2.target=void\ setUserInfo(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+comment3.params=
+comment3.target=void\ setUserInfo()
+comment4.params=email\ password
+comment4.target=User\ chkUserList(java.lang.String,\ java.lang.String)
+comment5.params=index
+comment5.target=User\ getCustomer(int)
+comment6.params=index\ c
+comment6.target=void\ setCustomer(int,\ User)
+comment7.params=email
+comment7.target=User\ getUserEmail(java.lang.String)
+numComments=8

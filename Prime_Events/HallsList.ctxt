@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HallsList
+comment1.params=
+comment1.target=HallsList()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ HallsList\r\n
+comment2.params=index
+comment2.target=Hall\ getHall(int)
+comment3.params=hallsList
+comment3.target=void\ setHall(java.util.ArrayList)
+comment4.params=
+comment4.target=int\ getSize()
+comment5.params=
+comment5.target=void\ setHallInformation()
+comment5.text=\r\n\ Initialise\ hall\ information\ for\ two\ halls\r\n
+numComments=6
